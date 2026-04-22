@@ -19,6 +19,16 @@ Full-stack parking management platform with 9 microservices, 3 client applicatio
 
 ---
 
+## 🌐 Live Demo
+
+**Production deployment:** [slugtrail.link](https://slugtrail.link)
+
+- **Driver Portal:** [driver.slugtrail.link](https://driver.slugtrail.link)
+- **Admin Portal:** [admin.slugtrail.link](https://admin.slugtrail.link)
+- **Enforcement Portal:** [enforcement.slugtrail.link](https://enforcement.slugtrail.link)
+
+---
+
 ## Tech Stack
 
 **Frontend**
